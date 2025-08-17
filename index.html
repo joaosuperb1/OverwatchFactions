@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Facções Overwatch</title>
+    <style>
+        /* Remove margens e preenchimentos padrão do navegador */
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            overflow: hidden; /* Evita barras de rolagem indesejadas */
+            font-family: sans-serif;
+        }
+
+        /* Faz o contêiner da visualização e o SVG ocuparem todo o espaço */
+        #visualizacao, svg {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Opcional: Para manter o título visível */
+        h1 {
+            position: absolute;
+            top: 10px;
+            left: 20px;
+            z-index: 10;
+            color: #333;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Herois e Facções</h1>
+    <div id="visualizacao"></div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    
+    <script src="meu_script.js"></script>
+</body>
+</html>
