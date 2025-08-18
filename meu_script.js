@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
             .attr("width", width)
             .attr("height", height)
             .call(d3.zoom().on("zoom", function (event) {
-               g.attr("transform", event.transform)
+                g.attr("transform", event.transform)
             }));
 
         const g = svg.append("g");
@@ -88,6 +88,18 @@ document.addEventListener('DOMContentLoaded', function() {
             .style("font-weight", "500")
             .attr("fill", "white")
             .style("text-shadow", "0 1px 3px rgba(0,0,0,0.5)");
+        
+        // Lógica para indexar as conexões para o efeito de highlight
+        const linkedByIndex = {};
+        graph.links.forEach(d => {
+            // CORREÇÃO: Após a simulação ser iniciada, d.source e d.target
+            // se tornam objetos. Precisamos usar seus IDs para criar a chave do índice.
+            linkedByIndex[`${d.source.id},${d.target.id}`] = 1;
+        });
+
+        function isConnected(a, b) {
+            return linkedByIndex[`${a.id},${b.id}`] || linkedByIndex[`${b.id},${a.id}`] || a.id === b.id;
+        }
 
         // Eventos de mouse para o tooltip
         node.on("mouseover", function(event, d) {
@@ -97,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 .style("top", (event.pageY - 28) + "px");
             
             // Destacar nó e vizinhos
-            link.style('stroke-opacity', l => (l.source === d || l.target === d) ? 1 : 0.2);
+            link.style('stroke-opacity', l => (l.source.id === d.id || l.target.id === d.id) ? 1 : 0.2);
             node.style('opacity', n => isConnected(d, n) ? 1 : 0.3);
 
         }).on("mouseout", function(d) {
@@ -106,17 +118,6 @@ document.addEventListener('DOMContentLoaded', function() {
             link.style('stroke-opacity', 0.7);
             node.style('opacity', 1);
         });
-        
-        // Função para verificar se dois nós estão conectados
-        let linkedByIndex = {};
-        graph.links.forEach(d => {
-            linkedByIndex[`${d.source.id},${d.target.id}`] = 1;
-        });
-
-        function isConnected(a, b) {
-            return linkedByIndex[`${a.id},${b.id}`] || linkedByIndex[`${b.id},${a.id}`] || a.id === b.id;
-        }
-
 
         // Atualiza a posição dos elementos a cada "tick" da simulação
         simulation.on("tick", () => {

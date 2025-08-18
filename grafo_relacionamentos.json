@@ -5,19 +5,11 @@
     "nodes": [
         {
             "tipo": "personagem",
+            "id": "Freja"
+        },
+        {
+            "tipo": "personagem",
             "id": "Baptiste"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Winston"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Genji"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Kiriko"
         },
         {
             "tipo": "personagem",
@@ -25,107 +17,7 @@
         },
         {
             "tipo": "personagem",
-            "id": "Sigma"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Cassidy"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Tracer"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Ana"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Mercy"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Torbjorn"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Mauga"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Bastion"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Junkrat"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Freja"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Lifeweaver"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Reinhardt"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Orisa"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Ashe"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Phara"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Reaper"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Sojourn"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Roadhog"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Doomfirst"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Sombra"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Wrecking Ball"
-        },
-        {
-            "tipo": "personagem",
-            "id": "L\u00facio"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Widowmaker"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Echo"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Junkerqueen"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Moira"
+            "id": "Wuyang"
         },
         {
             "tipo": "personagem",
@@ -133,15 +25,7 @@
         },
         {
             "tipo": "personagem",
-            "id": "Hazard"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Mei"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Wuyang"
+            "id": "Roadhog"
         },
         {
             "tipo": "personagem",
@@ -149,15 +33,7 @@
         },
         {
             "tipo": "personagem",
-            "id": "Soldado76"
-        },
-        {
-            "tipo": "personagem",
             "id": "Zennyata"
-        },
-        {
-            "tipo": "personagem",
-            "id": "Rammattra"
         },
         {
             "tipo": "personagem",
@@ -165,7 +41,127 @@
         },
         {
             "tipo": "personagem",
+            "id": "Juno"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Tracer"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Sojourn"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Wrecking Ball"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Junkrat"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Soldado76"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Winston"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Hazard"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Moira"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Cassidy"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Kiriko"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Reinhardt"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Lifeweaver"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Widowmaker"
+        },
+        {
+            "tipo": "personagem",
             "id": "DVA"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Ashe"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Junkerqueen"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Mei"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Sombra"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Mercy"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Phara"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Sigma"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Zarya"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Genji"
+        },
+        {
+            "tipo": "personagem",
+            "id": "L\u00facio"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Echo"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Torbjorn"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Reaper"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Rammattra"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Doomfirst"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Ana"
         },
         {
             "tipo": "personagem",
@@ -173,15 +169,35 @@
         },
         {
             "tipo": "personagem",
-            "id": "Juno"
+            "id": "Bastion"
         },
         {
             "tipo": "personagem",
-            "id": "Zarya"
+            "id": "Mauga"
+        },
+        {
+            "tipo": "personagem",
+            "id": "Orisa"
         },
         {
             "tipo": "faccao",
-            "id": "Universidade Wuxing"
+            "id": "Yokai"
+        },
+        {
+            "tipo": "faccao",
+            "id": "Shimada"
+        },
+        {
+            "tipo": "faccao",
+            "id": "MEKA"
+        },
+        {
+            "tipo": "faccao",
+            "id": "LosMortos"
+        },
+        {
+            "tipo": "faccao",
+            "id": "Vishkar"
         },
         {
             "tipo": "faccao",
@@ -189,11 +205,11 @@
         },
         {
             "tipo": "faccao",
-            "id": "Cruzados"
+            "id": "Voskaya"
         },
         {
             "tipo": "faccao",
-            "id": "Arcologia"
+            "id": "Phreaks"
         },
         {
             "tipo": "faccao",
@@ -201,7 +217,31 @@
         },
         {
             "tipo": "faccao",
-            "id": "Deadlock"
+            "id": "Cruzados"
+        },
+        {
+            "tipo": "faccao",
+            "id": "Militares Russia"
+        },
+        {
+            "tipo": "faccao",
+            "id": "Talon"
+        },
+        {
+            "tipo": "faccao",
+            "id": "Escavadores"
+        },
+        {
+            "tipo": "faccao",
+            "id": "Overwatch"
+        },
+        {
+            "tipo": "faccao",
+            "id": "Militares Canad\u00e1"
+        },
+        {
+            "tipo": "faccao",
+            "id": "IronGlad"
         },
         {
             "tipo": "faccao",
@@ -209,7 +249,23 @@
         },
         {
             "tipo": "faccao",
-            "id": "Escavadores"
+            "id": "Arcologia"
+        },
+        {
+            "tipo": "faccao",
+            "id": "Universidade Wuxing"
+        },
+        {
+            "tipo": "faccao",
+            "id": "Inti"
+        },
+        {
+            "tipo": "faccao",
+            "id": "Deadlock"
+        },
+        {
+            "tipo": "faccao",
+            "id": "Oasis"
         },
         {
             "tipo": "faccao",
@@ -221,70 +277,20 @@
         },
         {
             "tipo": "faccao",
-            "id": "Yokay"
-        },
-        {
-            "tipo": "faccao",
-            "id": "Shimada"
-        },
-        {
-            "tipo": "faccao",
-            "id": "Overwatch"
-        },
-        {
-            "tipo": "faccao",
-            "id": "Phreaks"
-        },
-        {
-            "tipo": "faccao",
-            "id": "Inti"
-        },
-        {
-            "tipo": "faccao",
-            "id": "Militares Russia"
-        },
-        {
-            "tipo": "faccao",
-            "id": "LosMortos"
-        },
-        {
-            "tipo": "faccao",
-            "id": "Oasis"
-        },
-        {
-            "tipo": "faccao",
-            "id": "Talon"
-        },
-        {
-            "tipo": "faccao",
-            "id": "Yokai"
-        },
-        {
-            "tipo": "faccao",
-            "id": "MEKA"
-        },
-        {
-            "tipo": "faccao",
-            "id": "Militares Canad\u00e1"
-        },
-        {
-            "tipo": "faccao",
             "id": "Elix"
-        },
-        {
-            "tipo": "faccao",
-            "id": "IronGlad"
-        },
-        {
-            "tipo": "faccao",
-            "id": "Voskaya"
-        },
-        {
-            "tipo": "faccao",
-            "id": "Vishkar"
         }
     ],
     "links": [
+        {
+            "status": "Antes",
+            "source": "Freja",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "Freja",
+            "target": "Mercen\u00e1rio"
+        },
         {
             "status": "Antes",
             "source": "Baptiste",
@@ -298,31 +304,6 @@
         {
             "status": "Atual",
             "source": "Baptiste",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Atual",
-            "source": "Winston",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Antes",
-            "source": "Genji",
-            "target": "Shimada"
-        },
-        {
-            "status": "Atual",
-            "source": "Genji",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Atual",
-            "source": "Kiriko",
-            "target": "Yokai"
-        },
-        {
-            "status": "Atual",
-            "source": "Kiriko",
             "target": "Overwatch"
         },
         {
@@ -332,153 +313,63 @@
         },
         {
             "status": "Atual",
-            "source": "Sigma",
-            "target": "Talon"
-        },
-        {
-            "status": "Atual",
-            "source": "Cassidy",
+            "source": "Illari",
             "target": "Overwatch"
         },
         {
-            "status": "Antes",
-            "source": "Cassidy",
-            "target": "Blackwatch"
+            "status": "Atual",
+            "source": "Wuyang",
+            "target": "Universidade Wuxing"
+        },
+        {
+            "status": "Atual",
+            "source": "Brigitte",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "Brigitte",
+            "target": "IronGlad"
+        },
+        {
+            "status": "Atual",
+            "source": "Roadhog",
+            "target": "Mercen\u00e1rio"
+        },
+        {
+            "status": "Atual",
+            "source": "Roadhog",
+            "target": "Junkers"
         },
         {
             "status": "Antes",
-            "source": "Cassidy",
-            "target": "Deadlock"
+            "source": "Hanzo",
+            "target": "Shimada"
+        },
+        {
+            "status": "Atual",
+            "source": "Hanzo",
+            "target": "Mercen\u00e1rio"
+        },
+        {
+            "status": "Antes",
+            "source": "Zennyata",
+            "target": "Shambali"
+        },
+        {
+            "status": "Atual",
+            "source": "Venture",
+            "target": "Escavadores"
+        },
+        {
+            "status": "Atual",
+            "source": "Juno",
+            "target": "Overwatch"
         },
         {
             "status": "Atual",
             "source": "Tracer",
             "target": "Overwatch"
-        },
-        {
-            "status": "Antes",
-            "source": "Ana",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Atual",
-            "source": "Ana",
-            "target": "Mercen\u00e1rio"
-        },
-        {
-            "status": "Atual",
-            "source": "Mercy",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Atual",
-            "source": "Torbjorn",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Antes",
-            "source": "Torbjorn",
-            "target": "IronGlad"
-        },
-        {
-            "status": "Atual",
-            "source": "Mauga",
-            "target": "Mercen\u00e1rio"
-        },
-        {
-            "status": "Atual",
-            "source": "Mauga",
-            "target": "Talon"
-        },
-        {
-            "status": "Antes",
-            "source": "Bastion",
-            "target": "Setor Nulo"
-        },
-        {
-            "status": "Atual",
-            "source": "Bastion",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Atual",
-            "source": "Bastion",
-            "target": "IronGlad"
-        },
-        {
-            "status": "Atual",
-            "source": "Junkrat",
-            "target": "Junkers"
-        },
-        {
-            "status": "Atual",
-            "source": "Junkrat",
-            "target": "Mercen\u00e1rio"
-        },
-        {
-            "status": "Antes",
-            "source": "Freja",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Atual",
-            "source": "Freja",
-            "target": "Mercen\u00e1rio"
-        },
-        {
-            "status": "Antes",
-            "source": "Lifeweaver",
-            "target": "Vishkar"
-        },
-        {
-            "status": "Atual",
-            "source": "Lifeweaver",
-            "target": "Arcologia"
-        },
-        {
-            "status": "Atual",
-            "source": "Reinhardt",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Atual",
-            "source": "Reinhardt",
-            "target": "Cruzados"
-        },
-        {
-            "status": "Atual",
-            "source": "Orisa",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Atual",
-            "source": "Ashe",
-            "target": "Deadlock"
-        },
-        {
-            "status": "Antes",
-            "source": "Phara",
-            "target": "Elix"
-        },
-        {
-            "status": "Atual",
-            "source": "Phara",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Antes",
-            "source": "Reaper",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Antes",
-            "source": "Reaper",
-            "target": "Blackwatch"
-        },
-        {
-            "status": "Atual",
-            "source": "Reaper",
-            "target": "Talon"
         },
         {
             "status": "Antes",
@@ -497,53 +388,38 @@
         },
         {
             "status": "Atual",
-            "source": "Roadhog",
-            "target": "Mercen\u00e1rio"
-        },
-        {
-            "status": "Atual",
-            "source": "Roadhog",
-            "target": "Junkers"
-        },
-        {
-            "status": "Atual",
-            "source": "Doomfirst",
-            "target": "Talon"
-        },
-        {
-            "status": "Antes",
-            "source": "Sombra",
-            "target": "LosMortos"
-        },
-        {
-            "status": "Atual",
-            "source": "Sombra",
-            "target": "Talon"
-        },
-        {
-            "status": "Atual",
             "source": "Wrecking Ball",
             "target": "Junkers"
         },
         {
             "status": "Atual",
-            "source": "L\u00facio",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Atual",
-            "source": "Widowmaker",
-            "target": "Talon"
-        },
-        {
-            "status": "Atual",
-            "source": "Echo",
-            "target": "Overwatch"
-        },
-        {
-            "status": "Atual",
-            "source": "Junkerqueen",
+            "source": "Junkrat",
             "target": "Junkers"
+        },
+        {
+            "status": "Atual",
+            "source": "Junkrat",
+            "target": "Mercen\u00e1rio"
+        },
+        {
+            "status": "Antes",
+            "source": "Soldado76",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "Soldado76",
+            "target": "Mercen\u00e1rio"
+        },
+        {
+            "status": "Atual",
+            "source": "Winston",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "Hazard",
+            "target": "Phreaks"
         },
         {
             "status": "Antes",
@@ -567,68 +443,53 @@
         },
         {
             "status": "Atual",
-            "source": "Brigitte",
+            "source": "Cassidy",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Antes",
+            "source": "Cassidy",
+            "target": "Blackwatch"
+        },
+        {
+            "status": "Antes",
+            "source": "Cassidy",
+            "target": "Deadlock"
+        },
+        {
+            "status": "Atual",
+            "source": "Kiriko",
+            "target": "Yokai"
+        },
+        {
+            "status": "Atual",
+            "source": "Kiriko",
             "target": "Overwatch"
         },
         {
             "status": "Atual",
-            "source": "Brigitte",
-            "target": "IronGlad"
-        },
-        {
-            "status": "Atual",
-            "source": "Hazard",
-            "target": "Phreaks"
-        },
-        {
-            "status": "Atual",
-            "source": "Mei",
+            "source": "Reinhardt",
             "target": "Overwatch"
         },
         {
             "status": "Atual",
-            "source": "Wuyang",
-            "target": "Universidade Wuxing"
+            "source": "Reinhardt",
+            "target": "Cruzados"
         },
         {
             "status": "Antes",
-            "source": "Hanzo",
-            "target": "Shimada"
+            "source": "Lifeweaver",
+            "target": "Vishkar"
         },
         {
             "status": "Atual",
-            "source": "Hanzo",
-            "target": "Mercen\u00e1rio"
-        },
-        {
-            "status": "Antes",
-            "source": "Soldado76",
-            "target": "Overwatch"
+            "source": "Lifeweaver",
+            "target": "Arcologia"
         },
         {
             "status": "Atual",
-            "source": "Soldado76",
-            "target": "Mercen\u00e1rio"
-        },
-        {
-            "status": "Antes",
-            "source": "Zennyata",
-            "target": "Shambali"
-        },
-        {
-            "status": "Antes",
-            "source": "Rammattra",
-            "target": "Shambali"
-        },
-        {
-            "status": "Atual",
-            "source": "Rammattra",
-            "target": "Setor Nulo"
-        },
-        {
-            "status": "Atual",
-            "source": "Venture",
-            "target": "Escavadores"
+            "source": "Widowmaker",
+            "target": "Talon"
         },
         {
             "status": "Atual",
@@ -642,13 +503,48 @@
         },
         {
             "status": "Atual",
-            "source": "Symmetra",
-            "target": "Vishkar"
+            "source": "Ashe",
+            "target": "Deadlock"
         },
         {
             "status": "Atual",
-            "source": "Juno",
+            "source": "Junkerqueen",
+            "target": "Junkers"
+        },
+        {
+            "status": "Atual",
+            "source": "Mei",
             "target": "Overwatch"
+        },
+        {
+            "status": "Antes",
+            "source": "Sombra",
+            "target": "LosMortos"
+        },
+        {
+            "status": "Atual",
+            "source": "Sombra",
+            "target": "Talon"
+        },
+        {
+            "status": "Atual",
+            "source": "Mercy",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Antes",
+            "source": "Phara",
+            "target": "Elix"
+        },
+        {
+            "status": "Atual",
+            "source": "Phara",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "Sigma",
+            "target": "Talon"
         },
         {
             "status": "Atual",
@@ -666,14 +562,169 @@
             "target": "Militares Russia"
         },
         {
-            "relacao": "aliada",
-            "source": "Cruzados",
+            "status": "Antes",
+            "source": "Genji",
+            "target": "Shimada"
+        },
+        {
+            "status": "Antes",
+            "source": "Genji",
+            "target": "Blackwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "Genji",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "L\u00facio",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "Echo",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "Torbjorn",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Antes",
+            "source": "Torbjorn",
+            "target": "IronGlad"
+        },
+        {
+            "status": "Antes",
+            "source": "Reaper",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Antes",
+            "source": "Reaper",
+            "target": "Blackwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "Reaper",
+            "target": "Talon"
+        },
+        {
+            "status": "Antes",
+            "source": "Rammattra",
+            "target": "Shambali"
+        },
+        {
+            "status": "Atual",
+            "source": "Rammattra",
+            "target": "Setor Nulo"
+        },
+        {
+            "status": "Atual",
+            "source": "Doomfirst",
+            "target": "Talon"
+        },
+        {
+            "status": "Antes",
+            "source": "Ana",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "Ana",
+            "target": "Mercen\u00e1rio"
+        },
+        {
+            "status": "Atual",
+            "source": "Symmetra",
+            "target": "Vishkar"
+        },
+        {
+            "status": "Antes",
+            "source": "Bastion",
+            "target": "Setor Nulo"
+        },
+        {
+            "status": "Atual",
+            "source": "Bastion",
+            "target": "Overwatch"
+        },
+        {
+            "status": "Atual",
+            "source": "Bastion",
+            "target": "IronGlad"
+        },
+        {
+            "status": "Atual",
+            "source": "Mauga",
+            "target": "Mercen\u00e1rio"
+        },
+        {
+            "status": "Atual",
+            "source": "Mauga",
+            "target": "Talon"
+        },
+        {
+            "status": "Atual",
+            "source": "Orisa",
             "target": "Overwatch"
         },
         {
             "relacao": "aliada",
-            "source": "Arcologia",
+            "source": "Yokai",
             "target": "Overwatch"
+        },
+        {
+            "relacao": "aliada",
+            "source": "Yokai",
+            "target": "Phreaks"
+        },
+        {
+            "relacao": "aliada",
+            "source": "MEKA",
+            "target": "Overwatch"
+        },
+        {
+            "relacao": "inimiga",
+            "source": "LosMortos",
+            "target": "Overwatch"
+        },
+        {
+            "relacao": "aliada",
+            "source": "LosMortos",
+            "target": "Talon"
+        },
+        {
+            "relacao": "aliada",
+            "source": "Vishkar",
+            "target": "Talon"
+        },
+        {
+            "relacao": "inimiga",
+            "source": "Voskaya",
+            "target": "Talon"
+        },
+        {
+            "relacao": "inimiga",
+            "source": "Phreaks",
+            "target": "Overwatch"
+        },
+        {
+            "relacao": "inimiga",
+            "source": "Phreaks",
+            "target": "Talon"
+        },
+        {
+            "relacao": "inimiga",
+            "source": "Phreaks",
+            "target": "Setor Nulo"
+        },
+        {
+            "relacao": "aliada",
+            "source": "Phreaks",
+            "target": "Deadlock"
         },
         {
             "relacao": "subordinada",
@@ -681,29 +732,24 @@
             "target": "Overwatch"
         },
         {
-            "relacao": "inimiga",
-            "source": "Deadlock",
+            "relacao": "aliada",
+            "source": "Cruzados",
             "target": "Overwatch"
+        },
+        {
+            "relacao": "inimiga",
+            "source": "Talon",
+            "target": "Overwatch"
+        },
+        {
+            "relacao": "inimiga",
+            "source": "Talon",
+            "target": "Escavadores"
         },
         {
             "relacao": "aliada",
-            "source": "Deadlock",
-            "target": "Phreaks"
-        },
-        {
-            "relacao": "inimiga",
-            "source": "Setor Nulo",
-            "target": "Phreaks"
-        },
-        {
-            "relacao": "inimiga",
-            "source": "Setor Nulo",
-            "target": "Overwatch"
-        },
-        {
-            "relacao": "aliada",
-            "source": "Yokay",
-            "target": "Overwatch"
+            "source": "Talon",
+            "target": "Oasis"
         },
         {
             "relacao": "aliada",
@@ -713,57 +759,22 @@
         {
             "relacao": "aliada",
             "source": "Overwatch",
-            "target": "MEKA"
+            "target": "Arcologia"
         },
         {
             "relacao": "inimiga",
             "source": "Overwatch",
-            "target": "Talon"
+            "target": "Deadlock"
         },
         {
             "relacao": "inimiga",
             "source": "Overwatch",
-            "target": "LosMortos"
-        },
-        {
-            "relacao": "inimiga",
-            "source": "Overwatch",
-            "target": "Phreaks"
-        },
-        {
-            "relacao": "inimiga",
-            "source": "Phreaks",
-            "target": "Talon"
-        },
-        {
-            "relacao": "aliada",
-            "source": "Phreaks",
-            "target": "Yokai"
-        },
-        {
-            "relacao": "aliada",
-            "source": "LosMortos",
-            "target": "Talon"
-        },
-        {
-            "relacao": "aliada",
-            "source": "Oasis",
-            "target": "Talon"
+            "target": "Setor Nulo"
         },
         {
             "relacao": "aliada",
             "source": "Oasis",
             "target": "Elix"
-        },
-        {
-            "relacao": "inimiga",
-            "source": "Talon",
-            "target": "Voskaya"
-        },
-        {
-            "relacao": "aliada",
-            "source": "Talon",
-            "target": "Vishkar"
         }
     ]
 }
