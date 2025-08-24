@@ -713,6 +713,11 @@
         },
         {
             "relacao": "aliada",
+            "source": "Yokai",
+            "target": "Shimada"
+        },
+        {
+            "relacao": "aliada",
             "source": "IronGlad",
             "target": "Overwatch"
         },

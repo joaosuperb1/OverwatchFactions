@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Destacar nó e vizinhos
             link.style('stroke-opacity', l => (l.source.id === d.id || l.target.id === d.id) ? 1 : 0.2);
-            node.style('opacity', n => isConnected(d, n) ? 1 : 0.3);
+            node.style('opacity', n => isConnected(d, n) ? 1 : 0.05);
 
         }).on("mouseout", function(d) {
             tooltip.transition().duration(500).style("opacity", 0);
